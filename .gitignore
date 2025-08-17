@@ -1,0 +1,43 @@
+# ==========================
+# Project-specific ignores
+# ==========================
+
+# Ignore images
+*.png
+
+# Ignore text files
+*.txt
+
+# Ignore PowerPoint files
+*.pptx
+
+# Ignore HTML files
+*.html
+
+# Ignore binary build outputs
+*.bin
+*.img
+
+# ==========================
+# Common system/editor files
+# ==========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Vim/Emacs
+*~
+*.swp
+*.swo
+*.autosave
+
+# ==========================
+# Build artifacts
+# ==========================
+*.o
+*.out
+*.log
