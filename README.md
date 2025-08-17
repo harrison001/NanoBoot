@@ -104,7 +104,9 @@ This repository demonstrates how **production-grade embedded bootloader concepts
 - Practical coding ability (working bootloader in <5KB)  
 
 It bridges the gap between **commercial system design** and **teaching-oriented open source**, showcasing both engineering rigor and technical communication.  
+
 ---
+
 # ⚠️ Disclaimer  
 This repository contains no proprietary or confidential code.  
 It is a clean-room educational implementation, inspired by architectural 
