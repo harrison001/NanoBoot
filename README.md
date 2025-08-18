@@ -15,9 +15,15 @@ This **demo version** keeps the architectural spirit and technical patterns, whi
 
 [![Bootloader Demo](https://img.youtube.com/vi/hBKiy3F3aRk/hqdefault.jpg)](https://youtu.be/hBKiy3F3aRk)
 
-This video shows the bootloader transitioning to protected mode, setting up GDT/IDT, and executing a round-robin preemptive scheduler using IRQ0 timer interrupts.
+This 40-second video highlights:
 
-🔗 [Watch on YouTube](https://youtu.be/hBKiy3F3aRk)(1 min, no audio)
+- Real → Protected Mode transition  
+- GDT / IDT initialization  
+- Exception vector handling (0–19)  
+- PIC remapping + IRQ0 timer interrupt  
+- Preemptive round-robin scheduler (tasks A/B/Idle)
+
+📺 [Watch on YouTube](https://youtu.be/hBKiy3F3aRk) — No audio
 ---
 
 ## 🎯 Goals of This Demo
