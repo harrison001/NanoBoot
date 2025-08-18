@@ -11,6 +11,13 @@ The **production system** was deployed in security-critical environments (financ
 
 This **demo version** keeps the architectural spirit and technical patterns, while simplifying security and runtime features for educational and portfolio purposes.
 
+## 🔧 Live Demo (QEMU Output)
+
+[![Bootloader Demo](https://img.youtube.com/vi/hBKiy3F3aRk/hqdefault.jpg)](https://youtu.be/hBKiy3F3aRk)
+
+This video shows the bootloader transitioning to protected mode, setting up GDT/IDT, and executing a round-robin preemptive scheduler using IRQ0 timer interrupts.
+
+🔗 [Watch on YouTube](https://youtu.be/hBKiy3F3aRk)
 ---
 
 ## 🎯 Goals of This Demo
