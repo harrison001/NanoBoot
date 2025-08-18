@@ -17,7 +17,7 @@ This **demo version** keeps the architectural spirit and technical patterns, whi
 
 This video shows the bootloader transitioning to protected mode, setting up GDT/IDT, and executing a round-robin preemptive scheduler using IRQ0 timer interrupts.
 
-🔗 [Watch on YouTube](https://youtu.be/hBKiy3F3aRk)
+🔗 [Watch on YouTube](https://youtu.be/hBKiy3F3aRk)(1 min, no audio)
 ---
 
 ## 🎯 Goals of This Demo
