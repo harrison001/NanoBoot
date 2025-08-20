@@ -11,7 +11,7 @@ The **production system** was deployed in security-critical environments (financ
 
 This **demo version** keeps the architectural spirit and technical patterns, while simplifying security and runtime features for educational and portfolio purposes.
 
-## 🔧 Live Demo (QEMU Output)
+## 🔧 Live Demo (QEMU Output) — No audio
 
 [![Bootloader Demo](https://img.youtube.com/vi/hBKiy3F3aRk/hqdefault.jpg)](https://youtu.be/hBKiy3F3aRk)
 
