@@ -120,6 +120,15 @@ It bridges the gap between **commercial system design** and **teaching-oriented 
 
 ---
 
+## 📖 Related
+
+💡 When to choose **bare-metal vs RTOS**?  
+It depends on requirements — not hype.  
+
+👉 [Discussion on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7364329126456905730)
+
+---
+
 # ⚠️ Disclaimer  
 This repository contains no proprietary or confidential code.  
 It is a clean-room educational implementation, inspired by architectural 
